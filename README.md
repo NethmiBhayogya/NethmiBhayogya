@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-<h3 align="left">Hi 👋! My name is  Nethmi Bhayogya and I'm an university student of Sri Jayewardenepura University<br><br>Undergrad in ICT (Hons) at USJ | Driven by curiosity, creativity, and a love for technology</h3>
+<h3 align="left">Hi 🎓 ICT Undergraduate | Networking & Network Technology Enthusiast
+<br>
+I'm a third-year Bachelor of Information and Communication Technology (Honours) undergraduate at the University of Sri Jayewardenepura, Sri Lanka, with a strong interest in Networking, Network Infrastructure, and Cybersecurity.
+<br>
+I'm passionate about exploring how networks work, building practical networking solutions, and continuously developing my technical skills through hands-on projects and self-learning.</h3>
 
 ###
 
@@ -60,11 +64,58 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nethmibhayogya&label=Profile%20views&color=0e75b6&style=flat" alt="nethmibhayogya" /> </p>
 
-- 🌱 I’m currently learning **React,Java script**
+About Me
 
-- 📫 How to reach me **bhayogyan1234@gmail.com**
+🎓 Undergraduate at the University of Sri Jayewardenepura.
 
-- ⚡ Fun fact **I like the ocean**
+🌐 Interested in Computer Networking and Network Infrastructure.
+
+🔐 Exploring Network Security and Cybersecurity.
+
+💻 Building practical networking projects using Cisco Packet Tracer.
+
+📚 Currently strengthening my knowledge of CCNA concepts.
+
+🎯 Aspiring to pursue a career in the Networking and Telecommunications industry.
+
+🌱 Always eager to learn new technologies and gain practical experience.
+
+
+🛠️ Technical Skills
+
+Networking
+
+Computer Networking Fundamentals
+
+IP Addressing and Subnetting
+
+VLANs and Inter-VLAN Routing
+
+Routing and Switching
+
+DHCP and DNS Fundamentals
+
+Access Control Lists (ACLs)
+
+Network Security Fundamentals
+
+Tools & Technologies
+
+Cisco Packet Tracer
+
+Git & GitHub
+
+Linux Fundamentals
+
+Currently Exploring
+
+CCNA
+
+Network Security
+
+Cybersecurity
+
+Enterprise Network Infrastructur
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
