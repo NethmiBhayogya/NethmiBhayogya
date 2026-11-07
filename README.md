@@ -82,7 +82,7 @@ About Me
 <br>
 <br>
 
-🛠️ Technical Skills
+<b>🛠️ Technical Skills</b>
 <br><br>
 
 Networking
